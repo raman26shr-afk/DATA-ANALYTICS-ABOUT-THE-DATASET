@@ -146,6 +146,30 @@ df["Attendance"] = df["Attendance"].fillna(
 print("\nCleaned Dataset:")
 print(df)
 
+# DATA PREPARATION FOR MACHINE LEARNING
+
+After analyzing and cleaning the dataset, it can be prepared for Machine Learning.
+
+Steps Involved
+
+Handle missing values.
+
+Remove duplicate records.
+
+Identify input features and target variables.
+
+Convert categorical data into numerical form when required.
+
+Scale numerical features when appropriate.
+
+Split the dataset into training and testing sets.
+
+Example:
+
+Input features: Age, Marks, and Attendance.
+
+Target variable: Student performance category.
+
 # APPLICATIONS
 
 Student performance analysis.

@@ -15,6 +15,26 @@ Series: A one-dimensional labeled data structure.
 
 DataFrame: A two-dimensional table containing rows and columns.
 
+# OBJECTIVES
+
+The main objectives of this experiment are:
+
+To understand the structure and characteristics of a dataset.
+
+To learn how to use Python and Pandas for data analysis.
+
+To identify numerical and categorical data.
+
+To detect missing values and duplicate records.
+
+To perform basic data cleaning and preprocessing.
+
+To generate statistical summaries from the dataset.
+
+To prepare data for Machine Learning applications.
+
+To understand the importance of Exploratory Data Analysis (EDA).
+
 # Importance of Data Analytics in AI
 
 Helps understand the structure of a dataset.
